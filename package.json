@@ -2,13 +2,13 @@
   "name": "collect-erc20",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "The script moves all the erc-20 tokens to one address.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Cy6erNinja",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.0",
     "web3": "^1.7.0"
