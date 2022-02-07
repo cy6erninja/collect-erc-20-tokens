@@ -1,4 +1,4 @@
-# The script moves all the erc-20 tokens to one address on Polygon(but may be changed to use on any Ethereum-like chain).
+# The script moves all the erc-20 tokens to one address on Polygon(but may be changed to use on any EVM compatible chain).
 
 ## Usage:
  - npm install
